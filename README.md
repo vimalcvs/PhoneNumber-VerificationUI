@@ -6,9 +6,9 @@ Check out the new style for mobile number verification 😉😉😊😊
 
 **Please click the image below to enlarge.**
 
-<img src="Screenshots/1.jpg" height="600" width="300" hspace="40"><img src="Screenshots/2" height="600" width="300" hspace="40">
+<img src="Screenshots/1.jpg" height="600" width="300" hspace="40"><img src="Screenshots/2.jpg" height="600" width="300" hspace="40">
 
-<img src="Screenshots/3" height="600" width="300" hspace="40"><img src="Screenshots/4" height="600" width="300" hspace="40">
+<img src="Screenshots/3.jpg" height="600" width="300" hspace="40"><img src="Screenshots/4.jpg" height="600" width="300" hspace="40">
 
 ## Contributing
 
